@@ -1,0 +1,2 @@
+# Home-lightning-control-system-using-Arduino-and-Android-phone
+This project is used to used to control lights of the room using Arduino with bluetooth module(HC 06) and Android phone. I made an app using MIT app inventor( ai2.appinventor.mit.edu ) through which I can send characters to bluetooth module connected to serial port of Arduino UNO. When Arduino recieves a character say '1' ,it will set logic 'HIGH' on pin no. 13 which will turn on the relay and then the light. Similarly, '0' will turn off the light.
