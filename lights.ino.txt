@@ -27,7 +27,7 @@ void setup()
 
 // FUNCTION      : loop
 // DESCRIPTION   : This function runs continously,gets data from serial port,
-//		   nad based on that data,switches light on/off using light pin 
+//		   and based on that data,switches light on/off using light pin 
 // PARAMETERS    : Nothing
 // RETURNS       : Nothing
 void loop() 
